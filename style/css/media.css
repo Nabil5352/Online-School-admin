@@ -1,0 +1,52 @@
+.categoryBar{
+	margin-left: 25%;
+}
+
+.imgBar{
+border: 1px solid BLACK;
+border-radius: 10px;
+width: 18%;
+min-height: 300px;
+float: left;
+padding: 20px 20px 20px 50px;
+}
+
+.vidBar{
+border: 1px solid BLACK;
+border-radius: 10px;
+width: 18%;
+min-height: 300px;
+float: left;
+padding: 20px 20px 20px 50px;
+margin-left: 5%;
+}
+
+.destination{
+	margin-top: 10%;
+}
+
+.upIco{
+	width: 70px;
+	height: 70px;
+	margin-left: 25%;
+}
+
+.up_txt{
+	font-family: comic;
+	font-size: 15px;
+	margin-left: 22%;
+}
+
+.up_btn{
+	font-size: 15px;
+	margin-top: 10%;
+	margin-left: 09%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+}
+
+.btn{
+	margin-top: 10%;
+	margin-left: 23%;
+}

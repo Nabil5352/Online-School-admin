@@ -1,0 +1,188 @@
+/* profile.php */
+.control_center_top{
+background-color: #efefef;
+border: 1px solid GREY;
+border-radius: 10px;
+margin-top: 55px;
+margin-left: 5px;
+width: 99%;
+min-width: 900px;
+min-height: 50px;
+padding-top: 30px;
+}
+
+.control_center_top_ico{
+	margin: -10px 15px 5px 15px;
+	width: 37px;
+	height: 35px;
+	float: right;
+}
+
+.control_center_top_ico_help{
+	border-left: 1px solid GREY;
+	padding-left: 15px;
+	margin: -10px 15px 5px 5px;
+	width: 37px;
+	height: 35px;
+	float: right;
+}
+
+.control_center_top_text{
+	margin-left: 50px;
+	color: #1441b3;
+	font-weight: bold;
+	font-family: Castellar;
+	font-size: 17px;
+}
+
+.profileForm{
+
+border: 1px solid GREY;
+border-radius: 10px;
+margin-top: 15px;
+margin-left: 17%;
+margin-bottom: 15px;
+width: 60%;
+min-width: 500px;
+min-height: 400px;
+padding-top: 30px;
+}
+
+.profile{
+	margin-left: 25%;
+	margin-top: 40px;
+	width: 70%;
+	min-width: 500px;
+	font-family: courier;
+	font-size: 16px;
+}
+
+#id{
+	font-size: 13px;
+	font-weight: bold;
+	color: #575757;
+	margin-top: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+}
+
+#first_name{
+	margin-top: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+}
+
+#last_name{
+	margin-top: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+}
+
+#user{
+	margin-top: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+}
+
+#pass{
+	padding-left: 20px;
+	min-width: 180px;
+	margin-top: 10px;
+	height: 22px;
+}
+
+
+#email{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+	}
+
+#date{
+	font-size: 13px;
+	font-weight: bold;
+	color: #575757;
+	margin-top: 10px;
+	padding-left: 20px;
+	min-width: 180px;
+	height: 22px;
+}
+
+/*
+.form_border{
+margin-left: 3%;
+margin-right: 3%; 
+background-color: #efefef;
+}
+
+*/
+
+.submit_ico{
+	margin-top: 20px;
+	margin-left: 30%;
+	width: 37px;
+	height: 35px;
+}
+
+/* profile end*/
+
+/* user profile start*/
+
+.CategoryContentInside{
+	margin-left: 18%;
+}
+
+.CategoryBarInside{
+	margin-left: 18%;
+}
+
+.page_header{
+font-family: courier;
+font-size: 20px;
+background-color: #489fd3;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom: 1px solid BLACK;
+padding-left: 46%;
+padding-top: 5px;
+margin-top: -10px;
+width: 100%;
+height: 35px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+}
+
+.modal_header{
+margin-left: 10%;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+}
+
+.usrIMG{
+	width: 100px;
+}
+
+.usrTXT{
+	font-family: comic;
+	font-size: 18px;
+}
+
+.success{
+	font-family: castellar;
+	font-size: 16px;
+}
+
+.delSuccess{
+	font-family: comic;
+	font-size: 18px;
+}
+
+/* user profile end*/
